@@ -1,0 +1,72 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css");
+.section {
+  min-height: 100vh;
+  background: linear-gradient(orange, black);
+  display: flex;
+  align-items: center;
+}
+.Ekstrakulikuler {
+  background: linear-gradient(orange, orangered);
+  display: flex;
+  align-items: center;
+  min-height: 100vh;
+}
+.profil {
+  width: 100%;
+  height: 100vh;
+  background: rgba(0,0,0,0.7) url("https://assets-a1.kompasiana.com/items/album/2021/10/17/img-20210907-wa0045-616c531a06310e61ff2b3572.jpg");
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-blend-mode: darken;
+}
+.tentang {
+  width: 100%;
+  height: 100vh;
+  background: rgba(0,0,0,0.9) url("https://assets-a1.kompasiana.com/items/album/2021/10/17/img-20210907-wa0045-616c531a06310e61ff2b3572.jpg");
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-blend-mode: darken;
+}
+.visi {
+  background: linear-gradient(orange, orangered);;
+  display: flex;
+  align-items: center;
+  min-height: 100vh;
+}
+.struktur {
+  background: rgb(71, 71, 71);
+  display: flex;
+  align-items: center;
+  min-height: 100vh;
+}
+.informasi {
+  width: 100%;
+  height: 100vh;
+  background: rgba(0,0,0,0.9) url("https://assets-a1.kompasiana.com/items/album/2021/10/17/img-20210907-wa0045-616c531a06310e61ff2b3572.jpg");
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-blend-mode: darken;
+}
+.avatar {
+  color: ora;
+  width: 150px;
+  border-radius: 100px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.foto {
+  width: 90px;
+  border-radius: 100px;
+  margin-top: 50px;
+  margin-left: 90px;
+  margin-right: 90px;
+}
